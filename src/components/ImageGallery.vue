@@ -31,7 +31,7 @@ export default {
         require('@/assets/image10.jpeg')
       ],
       currentIndex: 0,
-      romanticNote: "Seninle sevgili olduğum için çok şanslıyım. Daha sadece 1 ay olmasına rağmen bir sürü muhteşem an yaşadık ve her saniyemde senin ile olduğum için iyi ki dedim.Gerçekten seninle olduğum için çok mutlu ve şanslı hissediyorum.Seninle geçen her an ,her saniye ,senin her tepkin o kadar hoj o kadar hoj ki sevgilim. Seni çok seviyorum aşkım ve umarım bu küçük hediye hoşuna gitmiştir."
+      romanticNote: "Seninle sevgili oldugum için çok sanslıyım. Daha sadece 1 ay olmasına ragmen bir sürü muhtesem an yasadık ve her saniyemde senin ile oldugum için iyi ki dedim.Gerçekten seninle oldugum için çok mutlu ve sanslı hissediyorum.Seninle geçen her an ,her saniye ,senin her tepkin o kadar hoj o kadar hoj ki sevgilim. Seni çok seviyorum askım ve umarım bu küçük hediye hosuna gitmistir."
     };
   },
   computed: {

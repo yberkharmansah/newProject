@@ -1,8 +1,8 @@
 <template>
   <div id="home">
     <h1>Merhaba Yasemin!</h1>
-    <p>Öncelikle sanırım bu sitenin ne olduğunu merak ediyorsun, acele etme! Öncelikle müziği başlatalım.</p>
-    <button @click="startMusic">Müziği Başlat</button>
+    <p>Öncelikle sanırım bu sitenin ne oldugunu merak ediyorsun, acele etme! Öncelikle müzigi baslatalım.</p>
+    <button @click="startMusic">Müzigi Baslat</button>
   </div>
 </template>
 
