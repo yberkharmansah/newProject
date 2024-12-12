@@ -1,7 +1,8 @@
 <template>
   <div id="home">
-    <h1>Merhaba Yasemin!</h1>
-    <p>Öncelikle sanırım bu sitenin ne oldugunu merak ediyorsun, acele etme! Öncelikle müzigi baslatalım.</p>
+    <h1>Selam bu muhteşem siteye hoşgeldin</h1>
+    <p>O zaman önce bir müzik alalım ! </p>
+    <p>Muhteşem bir grup müziği seçtim</p>
     <button @click="startMusic">Müzigi Baslat</button>
   </div>
 </template>
@@ -21,8 +22,12 @@ export default {
 
 <style>
 /* HomePage bileşeni için stiller */
+h1{
+  color: white;
+}
 p {
   font-size: large;
+  color: white;
 }
 #home {
   font-family: 'Dancing Script', cursive;
@@ -32,13 +37,13 @@ p {
   justify-content: center;
   height: 100vh;
   text-align: center;
-  background-color: #ffb6c1;
+  background: linear-gradient(to right, #98DAF1 33%, #E78C89 33%, #E78C89 66%, #81CB71 66%);
 }
 
 button {
   font-family: 'Dancing Script', cursive;
   padding: 10px 20px;
-  background-color: #ff69b4;
+  background-color: #9f61e6;
   color: white;
   border: none;
   border-radius: 5px;
